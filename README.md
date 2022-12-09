@@ -73,15 +73,15 @@ Objetivos Especificos
 
 VOLTAJE DEL NODO PRINCIPAL A
 
-![M 1](https://user-images.githubusercontent.com/116821649/206716932-60409da9-bbf6-41b8-9289-d71c6e8c3f86.jpg)
+![Imagen de WhatsApp 2022-12-09 a las 09 54 36](https://user-images.githubusercontent.com/116821649/206732451-649d94bb-3840-450e-888c-2cecb7aabd84.jpg)
 
 VOLTAJE DEL NODO PRINCIPAL B
 
-![M 2](https://user-images.githubusercontent.com/116821649/206717227-e707e207-28f9-4295-991c-596cd5ad315d.jpg)
+![Imagen de WhatsApp 2022-12-09 a las 09 58 07](https://user-images.githubusercontent.com/116821649/206732507-f26c2ee8-0025-4284-9772-0cb34621f2fb.jpg)
 
 5. Resultados obtenidos del voltaje de los nodos principales A y B 
 
-!![image](https://user-images.githubusercontent.com/116821649/206731761-9d571903-6f58-443e-b12d-ff48ba260da7.png)
+![image](https://user-images.githubusercontent.com/116821649/206732632-a7af138b-feda-41ae-ac98-02dc2e6d8a67.png)
 
 * Video 
 
