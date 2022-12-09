@@ -21,7 +21,9 @@ Comprobar experimentalmente el Análisis de Nodos, mediante plataforma digitales
 
 Objetivos Especificos
 
+1. Reconocer el tipo de nodos que existen dentro del circuito planteado.
 
+2. Utilizar intrumentos de medicion y simuladores para el analisis de voltaje de nodos.
 
 * Marco Teoríco
 
