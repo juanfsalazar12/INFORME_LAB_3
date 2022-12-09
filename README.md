@@ -81,7 +81,7 @@ VOLTAJE DEL NODO PRINCIPAL B
 
 5. Resultados obtenidos del voltaje de los nodos principales A y B 
 
-![image](https://user-images.githubusercontent.com/116821649/206720260-2a214da6-2b20-4c1c-8af2-154075f2c617.png)
+!![image](https://user-images.githubusercontent.com/116821649/206731761-9d571903-6f58-443e-b12d-ff48ba260da7.png)
 
 * Video 
 
