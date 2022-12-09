@@ -87,6 +87,16 @@ https://uespe-my.sharepoint.com/:v:/g/personal/jarivera17_espe_edu_ec/EYd6IoN19d
 
 * Conclusiones 
 
+1. En conclusión, se logro obtener mas conocimiento sobre el reconocimiento el análisis de nodo en un circuito planteado además de seguir mejorando la lectura de un circuito, mediante una plataforma digital y también circuito físico.
+
+2. En conclusión, mediante la realización de un circuito, se puede reforzar los conocimientos vistos en clase, además, mediante se puede analizar e identificar las diversos nodos de un circuito, también, es importante resaltar que mediate esto se adquiere más experiencia sobre la manera correcta de utilizar el instrumento de medición llamado multímetro y los demás materiales.
+
+3. Finalmente, mediante una comparación de los resultados obtenidos en la práctica se puede apreciar que los resultados obtenidos analíticamente, resultados simulados y los resultados experimentales sean los correctos y mediante esto saber que la practica ha sido muy eficaz y muy bien realizada.
+
+* Bibliografia 
+
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+
 
 
 
