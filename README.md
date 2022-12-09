@@ -17,9 +17,11 @@ Docente : Ing. Darwin Alulema
 
 Objetivo General
 
-Comprobar experimentalmente el Análisis de Nodos, mediante plataforma digitales y el uso de componentes fisicos. 
+Comprobar experimentalmente el Análisis de Nodos, mediante plataforma digitales y el uso de materailes fisicos. 
 
 Objetivos Especificos
+
+
 
 * Marco Teoríco
 
@@ -41,8 +43,50 @@ Objetivos Especificos
 
 2. Analisis de los nodos 
 
-![image](https://user-images.githubusercontent.com/116821649/206712574-02579498-2ddd-4dcd-813b-ecb218f32ee1.png)
+![image](https://user-images.githubusercontent.com/116821649/206713064-befe65ea-d34c-41d0-817c-af4f3e8b0aec.png)
+
+![image](https://user-images.githubusercontent.com/116821649/206713118-5b7317a5-078c-4b77-a89e-893ea760b838.png)
 
 2.1 Calculo de voltaje de los nodos principales en Thinkercad 
 
 ![image](https://user-images.githubusercontent.com/116821649/206712756-93da15ff-f77f-4fd2-9ad1-99a982fc8ade.png)
+
+3. Calculo de la Tabla 
+
+3.1 Cálculo del voltaje de los nodos principales A y B
+
+![image](https://user-images.githubusercontent.com/116821649/206713391-baa7ee19-58cc-4c65-ba1f-6d2cda679223.png)
+
+![image](https://user-images.githubusercontent.com/116821649/206713461-3de42ad5-3de3-4e45-9641-64e6b0281f1b.png)
+
+![image](https://user-images.githubusercontent.com/116821649/206713543-696a7eb1-4f99-41d7-9c17-f59a9cdc7661.png)
+
+![image](https://user-images.githubusercontent.com/116821649/206713614-34294a62-bf22-4c04-9dce-71b1dc7ceb82.png)
+
+3.2  Calculo de porcentaje de error 
+
+![image](https://user-images.githubusercontent.com/116821649/206714019-59771a58-b52d-403b-b6fd-a58785d8afd5.png)
+
+4. Valores obtenidos con el multimetro digital 
+
+VOLTAJE DEL NODO PRINCIPAL A
+
+![M 1](https://user-images.githubusercontent.com/116821649/206716932-60409da9-bbf6-41b8-9289-d71c6e8c3f86.jpg)
+
+VOLTAJE DEL NODO PRINCIPAL B
+
+![M 2](https://user-images.githubusercontent.com/116821649/206717227-e707e207-28f9-4295-991c-596cd5ad315d.jpg)
+
+5. Resultados obtenidos del voltaje de los nodos principales A y B 
+
+![image](https://user-images.githubusercontent.com/116821649/206720260-2a214da6-2b20-4c1c-8af2-154075f2c617.png)
+
+* Video 
+
+https://uespe-my.sharepoint.com/:v:/g/personal/jarivera17_espe_edu_ec/EYd6IoN19ddCjH8SV9mB9AoBjdXYugtCrj8YoTJiJOwVNA?e=BPPWLc 
+
+* Conclusiones 
+
+
+
+
